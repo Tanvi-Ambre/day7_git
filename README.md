@@ -1,1 +1,2 @@
-# day7_git
+# day7_git 
+Learning Git
